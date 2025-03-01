@@ -16,6 +16,7 @@
 
 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4CAF50&center=true&vCenter=true&width=350&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Python+Developer+%7C+Django+%7C+Flask+%7C+JavaScript;Let's+build+scalable+apps+together!" />
 </p>
