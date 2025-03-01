@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/ganesh-godse/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="tel:+91 94230 22606">
+  <a href="tel:+91 9423022606">
     <img src="https://img.shields.io/badge/-Phone-34B7F1?style=for-the-badge&logo=phone&logoColor=white">
   </a>
 </p>
