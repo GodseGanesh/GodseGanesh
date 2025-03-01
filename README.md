@@ -47,15 +47,15 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshgodse&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=GodseGanesh&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshgodse&theme=tokyonight" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshgodse&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodseGanesh&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GodseGanesh&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 
 ---
