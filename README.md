@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganeshgodse&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ganeshgodse?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=GodseGanesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/GodseGanesh?label=Followers&style=social" alt="followers" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/ganesh-godse/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="tel:+919423022606">
+  <a href="tel:+91 94230 22606">
     <img src="https://img.shields.io/badge/-Phone-34B7F1?style=for-the-badge&logo=phone&logoColor=white">
   </a>
 </p>
@@ -77,4 +77,5 @@
 ---
 
 🔥 **Let's build scalable apps and innovative solutions!** 🚀
+
 
